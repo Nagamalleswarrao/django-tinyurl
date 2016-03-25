@@ -1,0 +1,1 @@
+Converts your ugly long urls into pretty short ones
